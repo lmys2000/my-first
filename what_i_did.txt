@@ -1,0 +1,24 @@
+ 27  git clone git@github.com:lmys2000/my-first.git
+   28  ls
+   29  cd my-first
+   30  ls
+   31  ls -al
+   32  vi readme.txt
+   33  git status
+   34  git commit -a
+   35  git add -a
+   36  git add readme.txt 
+   37  git commit -a
+   38  git status
+   39  git push -a
+   40  git push origin master
+   41  git status
+   42  vi readme.txt 
+   43  git status
+   44  git commit -a
+   45  git status
+   46  git push origin/master
+   47  git push origin master
+   48  histoory
+   49  history
+
